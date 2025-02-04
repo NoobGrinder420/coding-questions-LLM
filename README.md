@@ -1,5 +1,5 @@
 # Leetcode-LLM
-Made this mini project during a LLM bootcamp at Republic Poly
+Made this mini project during a mini LLM bootcamp
 
 #Please run code in google colab and change google drive directories accordingly in the code
 
