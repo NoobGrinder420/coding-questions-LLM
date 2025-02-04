@@ -1,4 +1,4 @@
-# Leetcode-LLM
+# Coding Questions LLM using openai and langchain
 Made this mini project during a mini LLM bootcamp
 
 #Please run code in google colab and change google drive directories accordingly in the code
